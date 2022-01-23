@@ -1,0 +1,35 @@
+*{
+    font-family:'Roboto', sans-serif;
+}
+.projects{
+    background-color:#34547A;
+    padding: 30px;
+    color: white;
+}
+.col-4 > span{
+    font-size: 21px;
+}
+.registr{
+    padding: 50px;
+    background-color: #eeeff1;
+}
+input.col-3{
+    padding:15px;
+    border: 1px solid white;
+}
+.gap{
+    gap:20px;
+    padding-top: 30px;
+}
+textarea.mt-4{
+    padding: 10px 10px;
+}
+.btn.col-2{
+    background-color: #34547A;
+    color: white;
+    padding: 20px 40px;
+    text-transform: uppercase;
+}
+.btn.col-2:hover{
+    cursor:pointer;
+}
