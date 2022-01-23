@@ -13,7 +13,7 @@
     padding: 50px;
     background-color: #eeeff1;
 }
-input.col-3{
+input.col-md-3{
     padding:15px;
     border: 1px solid white;
 }
@@ -24,12 +24,12 @@ input.col-3{
 textarea.mt-4{
     padding: 10px 10px;
 }
-.btn.col-2{
+.btn{
     background-color: #34547A;
     color: white;
     padding: 20px 40px;
     text-transform: uppercase;
 }
-.btn.col-2:hover{
+.btn:hover{
     cursor:pointer;
 }
